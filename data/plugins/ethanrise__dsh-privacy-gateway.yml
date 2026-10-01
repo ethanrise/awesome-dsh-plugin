@@ -1,0 +1,7 @@
+url: https://github.com/ethanrise/dsh-privacy-gateway
+name: ethanrise/dsh-privacy-gateway
+category: security
+tarball: https://github.com/ethanrise/dsh-privacy-gateway/releases/latest/download/dsh-privacy-gateway.tgz
+description:
+  en: 'Local-first privacy gateway for DSH with conversation masking and CSV/XLSX safe-copy generation.'
+  zh: 'DSH 本地隐私网关，支持对话脱敏与 CSV/XLSX 安全副本生成。'
